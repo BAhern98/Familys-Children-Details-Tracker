@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<children>
+  <child>
+    <name>Bodkin Van Horn</name>
+    <DoB>02/03/2015</DoB>
+    <description>likes arts and crafts</description>
+  </child>
+  <child>
+    <name>Hoos-Foos</name>
+    <DoB>03/04/2013</DoB>
+    <description>likes kittens</description>
+  </child>
+  <child>
+    <name>Snimm</name>
+    <DoB>03/05/2013</DoB>
+    <description>scared of the dark</description>
+  </child>
+  <child>
+    <name>Hot-Shot</name>
+    <DoB>05/06/2012</DoB>
+    <description>scared of dogs</description>
+  </child>
+  <child>
+    <name>Sunny Jim</name>
+    <DoB>05/06/2012</DoB>
+    <description>good at singing</description>
+  </child>
+  <child>
+    <name>Shadrack</name>
+    <DoB>05/06/2012</DoB>
+    <description>peanut allergy</description>
+  </child>
+  <child>
+    <name>Blinkey</name>
+    <DoB>06/07/2011</DoB>
+    <description>milk allergy</description>
+  </child>
+  <child>
+    <name>Stuffy</name>
+    <DoB>07/08/2010</DoB>
+    <description>likes maths and football</description>
+  </child>
+  <child>
+    <name>Stinkey</name>
+    <DoB>08/09/2009</DoB>
+    <description>needs help with maths</description>
+  </child>
+  <child>
+    <name>Putt-Putt</name>
+    <DoB>09/10/2008</DoB>
+    <description>needs help with reading</description>
+  </child>
+  <child>
+    <name>Moon Face</name>
+    <DoB>09/10/2008</DoB>
+    <description>likes lego</description>
+  </child>
+  <child>
+    <name>Marvin O'Gravel Balloon Face</name>
+    <DoB>10/11/2007</DoB>
+    <description>dislikes animals</description>
+  </child>
+  <child>
+    <name>Ziggy</name>
+    <DoB>11/12/2006</DoB>
+    <description>wants to be a teacher</description>
+  </child>
+  <child>
+    <name>Soggy Muff</name>
+    <DoB>11/12/2006</DoB>
+    <description>wants to be a dr</description>
+  </child>
+  <child>
+    <name>Buffalo Bill</name>
+    <DoB>12/11/2005</DoB>
+    <description>does not like school</description>
+  </child>
+  <child>
+    <name>Biffalo Buff</name>
+    <DoB>12/01/2004</DoB>
+    <description>scared of small spaces</description>
+  </child>
+  <child>
+    <name>Sneepy</name>
+    <DoB>16/02/2003</DoB>
+    <description>likes reading</description>
+  </child>
+  <child>
+    <name>Weepy Weed</name>
+    <DoB>17/03/2002</DoB>
+    <description>peanut allergy</description>
+  </child>
+  <child>
+    <name>Paris Garters</name>
+    <DoB>17/03/2002</DoB>
+    <description>peanut allergy</description>
+  </child>
+  <child>
+    <name>Harris Tweed</name>
+    <DoB>18/04/2001</DoB>
+    <description>milk and peanut allergy</description>
+  </child>
+  <child>
+    <name>Sir Michael Carmichael Zutt</name>
+    <DoB>19/05/2000</DoB>
+    <description>likes football</description>
+  </child>
+  <child>
+    <name>Oliver Boliver Butt</name>
+    <DoB>03/03/1999</DoB>
+    <description>likes lego</description>
+  </child>
+  <child>
+    <name>Zanzibar Buck-Buck McFate</name>
+    <DoB>02/03/1998</DoB>
+    <description>likes dogs</description>
+  </child>
+</children>
